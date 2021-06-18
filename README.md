@@ -44,7 +44,7 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakirdevr&hide=html,css,javascript,scss&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakirdevr&hide=html,css,javascript,scss&theme=cobalt)]()
 
 [![Zakir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakirdevr&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
