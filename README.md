@@ -5,7 +5,7 @@
 ## I'm a Full-Stack Software Developer !!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Others: I love to travel & reading book
 
 
